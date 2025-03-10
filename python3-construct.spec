@@ -2,7 +2,7 @@
 Summary:	A powerful declarative symmetric parser/builder for binary data
 Name:		python3-%{module}
 Version:	2.10.68
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/construct/
